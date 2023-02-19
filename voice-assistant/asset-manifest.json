@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1717acee.css",
-    "main.js": "/static/js/main.1bbeae24.js",
-    "static/js/787.eedad9a4.chunk.js": "/static/js/787.eedad9a4.chunk.js",
-    "index.html": "/index.html",
-    "main.1717acee.css.map": "/static/css/main.1717acee.css.map",
-    "main.1bbeae24.js.map": "/static/js/main.1bbeae24.js.map",
-    "787.eedad9a4.chunk.js.map": "/static/js/787.eedad9a4.chunk.js.map"
+    "main.css": "https://ivanaquino.github.io/voice-assistant/static/css/main.1717acee.css",
+    "main.js": "https://ivanaquino.github.io/voice-assistant/static/js/main.5e021b62.js",
+    "static/js/787.eedad9a4.chunk.js": "https://ivanaquino.github.io/voice-assistant/static/js/787.eedad9a4.chunk.js",
+    "index.html": "https://ivanaquino.github.io/voice-assistant/index.html",
+    "main.1717acee.css.map": "https://ivanaquino.github.io/voice-assistant/static/css/main.1717acee.css.map",
+    "main.5e021b62.js.map": "https://ivanaquino.github.io/voice-assistant/static/js/main.5e021b62.js.map",
+    "787.eedad9a4.chunk.js.map": "https://ivanaquino.github.io/voice-assistant/static/js/787.eedad9a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1717acee.css",
-    "static/js/main.1bbeae24.js"
+    "static/js/main.5e021b62.js"
   ]
 }
